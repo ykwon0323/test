@@ -10,6 +10,7 @@
 <a href="Controller.do?command=list">글 목록</a>
 
 <span>소스 수정 예시 테스트 테스트 테스트 테스트 테스트 테스트 테스트</span>
+<span>나도 수정해야지 강쌤강쌤강쌤강쌤</span>
 
 
 </body>
